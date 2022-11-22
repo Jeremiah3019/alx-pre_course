@@ -1,6 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
-ALX school is so cool
-=======
-ALX schoo
->>>>>>> origin/update_script
+ALXroot@ca689dfbb621:~/alx-pre_course/0x01-git/bash# cat > school
+#!/bin/bash
+school
